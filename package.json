@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tausiftamboli/myNodeApp/issues"
   },
-  "homepage": "https://github.com/tausiftamboli/myNodeApp#readme"
+  "homepage": "https://github.com/tausiftamboli/myNodeApp#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
 }
